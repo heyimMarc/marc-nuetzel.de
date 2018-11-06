@@ -1,6 +1,6 @@
 baseurl = ""
 title = "Marc Nützel"
-theme = "hugo-theme-cleanwhite"
+theme = "hugo-theme"
 languageCode = "de-de"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
