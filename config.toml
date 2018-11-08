@@ -1,4 +1,4 @@
-baseurl = "www.marc-nuetzel.de"
+baseurl = "https://www.marc-nuetzel.de"
 title = "Marc Nützel"
 theme = "hugo-theme"
 languageCode = "de-de"
